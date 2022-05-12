@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255, 174, 0);
+}
+@media (main-width: 768px) {
+    body{
+        background-color:blue;
+    }
+}
+.box{
+    background-color: blueviolet;
+    border: 100px solid rg;
+    width: 10em;
+    padding: 1em;
+    margin: 1em;
+}
+.input1{
+    margin: 1em;
+}
+.input2{
+    margin: 1em;
+}
+h1{
+    background-image: url('th.jpg');
+    /*margin: 0.5em;*/
+    flex: 1;
+}
